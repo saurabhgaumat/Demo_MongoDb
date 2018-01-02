@@ -1,6 +1,6 @@
 
 
-# ws_test_mongo
+# Demo_MongoDb
 
 Prerequisites are:
   1. Latest version of node.js installed on the system.
